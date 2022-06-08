@@ -1,6 +1,6 @@
 # **API-Server**
 🔗[Heroku App](https://omarsawalmeh-api-server.herokuapp.com/)
-🔗[GitHub Actions](https://github.com/OmarSawalmeh/basic-api-server/actions)
+🔗[GitHub Actions](https://github.com/OmarSawalmeh/api-server/actions)
 🔗[pull requests](https://github.com/OmarSawalmeh/api-server/pulls)
 
 ### **UML**
